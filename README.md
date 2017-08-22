@@ -1,6 +1,8 @@
 # NSubstituteApprovalExtensions
 Legacy Vice Testing Tool that records what happens to a NSubstitute mock and verifies it using approval tests.
 
+When writing a test for legacy code using mocks it would take a lot of time to go back and forth to the code to userstand the order in which the mock should be set up. Rather than looking up the behavior in the code we can write a 3 line test that will take the interactions on the mock and use approval tests to vice the functionality of the target implementation.
+
 ## What we used to do:
 ```csharp
         [TestMethod]
