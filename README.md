@@ -34,7 +34,7 @@ Legacy Vice Testing Tool that records what happens to a NSubstitute mock and ver
         }
 ```
 
-### Output
+### Resulting Approval File
 ```
 Recorded behavior for: IDependencyInterface
 Method Name: Call1
