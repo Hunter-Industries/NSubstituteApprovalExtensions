@@ -1,0 +1,33 @@
+﻿Recorded behavior for: IDependencyInterface
+Method Name: Call1
+Arguments: 
+
+
+Method Name: Call2
+Arguments: 
+	Type: String
+	Value:
+		test
+
+
+Method Name: Call1
+Arguments: 
+
+
+Method Name: Call2
+Arguments: 
+	Type: String
+	Value:
+		test0
+
+
+Method Name: Call4
+Arguments: 
+	Type: ClassWithMultiLineToString
+	Value:
+		ClassWith
+		MultiLine
+		To
+		String
+
+

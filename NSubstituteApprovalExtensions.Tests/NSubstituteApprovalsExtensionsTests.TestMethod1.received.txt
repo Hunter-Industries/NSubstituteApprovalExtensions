@@ -1,0 +1,34 @@
+﻿Calls Made
+Method Name: Call1
+Arguments: 
+
+
+Method Name: Call2
+Arguments: 
+	Type: String
+	Value:
+		test
+
+
+Method Name: Call1
+Arguments: 
+
+
+Method Name: Call2
+Arguments: 
+	Type: String
+	Value:
+		test10
+
+
+Method Name: Call3
+Arguments: 
+	Type: String
+	Value:
+		some more arguments
+
+	Type: Int32
+	Value:
+		4
+
+
