@@ -1,7 +1,7 @@
 # NSubstituteApprovalExtensions
 Legacy Vice Testing Tool that records what happens to a NSubstitute mock and verifies it using approval tests.
 
-##What we used to do:
+## What we used to do:
 ```csharp
         [TestMethod]
         public void TestExampleOfWhatIUsedToDo()
@@ -22,7 +22,7 @@ Legacy Vice Testing Tool that records what happens to a NSubstitute mock and ver
         }
 ```
 
-##What we can do now
+## What we can do now
 ```csharp
         [TestMethod]
         public void TestNoPredefinedReturnValues()
